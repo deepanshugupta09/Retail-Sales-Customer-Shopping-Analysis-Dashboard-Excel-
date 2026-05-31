@@ -10,7 +10,7 @@ The goal of this project is to demonstrate Excel-based MIS reporting and analyti
 
 ## Dashboard Preview
 
-![Dashboard](retail_shoping_analysis.JPG)
+![[Dashboard](retail_shoping_analysis.JPG](https://github.com/deepanshugupta09/Retail-Sales-Customer-Shopping-Analysis-Dashboard-Excel-/blob/main/Retail-sales-customer-shopping-analysis-dashboard(excel).JPG))
 
 ---
 
